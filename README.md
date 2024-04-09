@@ -1,4 +1,5 @@
 # Introduccion_Algoritmica
+https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica.git
 
 Este repositorio contiene soluciones a una serie de ejercicios enfocados en conceptos fundamentales de programación en Python, incluyendo el trabajo con variables, operaciones matemáticas, definiciones de clases, y lógica de control de flujo.
 
