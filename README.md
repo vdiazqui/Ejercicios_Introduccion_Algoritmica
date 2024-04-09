@@ -24,6 +24,7 @@ Calcula el importe de los intereses generados por un capital invertido a un inte
 
 ### Parte 1
 Calcula la media aritmética de tres números dados.
+- [Solución 9.1: Cálculo de la media aritmética ponderada](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/9.1_Media_aritm%C3%A9tica_ponderada.py)
 
 ### Parte 2
 Calcula la media ponderada cuando se dan los números y los coeficientes de ponderación.
