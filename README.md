@@ -14,15 +14,16 @@ Este repositorio contiene soluciones a una serie de ejercicios enfocados en conc
 
 ### Parte 1
 Calcula el precio con todos los impuestos incluidos para un precio sin impuestos y un porcentaje de IVA dado.
-
+- [Solución 8.1: Cálculo del precio con IVA](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/8.1_Porcentajes_IVA_inversiones.py)
 ### Parte 2
 Calcula el importe de los intereses generados por un capital invertido a un interés dado durante un tiempo dado, expresado en meses.
+- [Solución 8.2: Cálculo de intereses generados por inversiones](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/8.2_Porcentajes_IVA_inversiones.py)
 
+  
 ## Ejercicio 9: Media aritmética ponderada
 
 ### Parte 1
 Calcula la media aritmética de tres números dados.
-- Código de solución: [Media aritmética ponderada](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/9.1_Media_aritm%C3%A9tica_ponderada.py)
 
 ### Parte 2
 Calcula la media ponderada cuando se dan los números y los coeficientes de ponderación.
