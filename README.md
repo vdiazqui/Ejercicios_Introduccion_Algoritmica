@@ -12,43 +12,40 @@ Este repositorio contiene soluciones a una serie de ejercicios enfocados en conc
 
 ## Ejercicio 8: Porcentajes, IVA e inversiones
 
-### Parte 1
-Calcula el precio con todos los impuestos incluidos para un precio sin impuestos y un porcentaje de IVA dado.
+Este archivo README proporciona enlaces directos a las soluciones de ejercicios específicos sobre porcentajes, IVA, inversiones, media aritmética ponderada, área de triángulos, y cálculos relacionados con salarios y horas extra. Estos ejercicios son parte de una serie diseñada para fortalecer la comprensión de conceptos fundamentales de programación en Python.
+
+## Ejercicio 8: Porcentajes, IVA e inversiones
+
+Este conjunto de ejercicios aborda el cálculo de porcentajes, incluyendo la aplicación del IVA y el cálculo de retornos de inversiones.
+
 - [Solución 8.1: Cálculo del precio con IVA](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/8.1_Porcentajes_IVA_inversiones.py)
-### Parte 2
-Calcula el importe de los intereses generados por un capital invertido a un interés dado durante un tiempo dado, expresado en meses.
 - [Solución 8.2: Cálculo de intereses generados por inversiones](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/8.2_Porcentajes_IVA_inversiones.py)
 
-  
 ## Ejercicio 9: Media aritmética ponderada
 
-### Parte 1
-Calcula la media aritmética de tres números dados.
-- [Solución 9.1: Cálculo de la media aritmética ponderada](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/9.1_Media_aritm%C3%A9tica_ponderada.py)
+Este ejercicio se centra en el cálculo de la media aritmética, tanto de manera simple como ponderada.
 
-### Parte 2
-Calcula la media ponderada cuando se dan los números y los coeficientes de ponderación.
+- [Solución 9.1: Cálculo de la media aritmética ponderada](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/9.1_Media_aritm%C3%A9tica_ponderada.py)
+- [Solución 9.2: Cálculo de la media aritmética ponderada con diferentes coeficientes](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/9.2_Media_aritm%C3%A9tica_ponderada.py)
 
 ## Ejercicio 10: Área del triángulo
 
-### Parte 1
-Calcula el área de un triángulo dado el tamaño de un lado y la altura relativa a ese lado.
+Aborda el cálculo del área de un triángulo, proporcionando fórmulas y ejemplos para diferentes tipos de triángulos.
 
-### Parte 2
-Discusión sobre la aplicabilidad del algoritmo para triángulos rectángulos usando medidas de lados perpendiculares.
+- [Solución 10.1: Cálculo del área de un triángulo](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/10.1_%C3%81rea_tri%C3%A1ngulo.py)
+- [Solución 10.2: Aplicación del algoritmo para triángulos rectángulos](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/10.2_%C3%81rea_tri%C3%A1ngulo.py)
 
-## Ejercicio 11: Salario y horas extra
+## Ejercicio 11: Cuenta de depósito
 
-Calcula el importe de las horas extra que hay que pagar, basado en el salario mensual bruto y la cantidad de horas extra trabajadas, considerando tarifas aumentadas para ciertas horas.
+Explora la creación y gestión de cuentas de depósito, incluyendo la implementación de características como descubiertos autorizados.
 
-## Ejercicio 12: Cuenta de depósito
+- [Solución 11: Manejo de una cuenta de depósito](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/11_Cuenta_dep%C3%B3sito.py)
 
-### Parte 1
-Define el tipo de datos `CUENTA`, modelando cuentas de depósito que no permiten saldo negativo.
+## Ejercicio 12: Salario y horas extra
 
-### Parte 2
-Define las operaciones aplicables a `CUENTA`.
+Detalla el cálculo de salarios incluyendo el pago de horas extra bajo diferentes condiciones.
 
-### Parte 3
-Ajusta las definiciones previas para permitir descubiertos limitados y temporales.
+- [Solución 12.1: Cálculo del pago por horas extra](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/12.1_Salario_horas_extra.py)
+- [Solución 12.2: Cálculo avanzado del pago por horas extra](https://github.com/vdiazqui/Ejercicios_Introduccion_Algoritmica/blob/main/12.2_Salario_horas_extra.py)
+
 
