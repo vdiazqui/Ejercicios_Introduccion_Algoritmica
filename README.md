@@ -1,7 +1,5 @@
 # Introduccion_Algoritmica
 
-# Ejercicios de Programación en Python
-
 Este repositorio contiene soluciones a una serie de ejercicios enfocados en conceptos fundamentales de programación en Python, incluyendo el trabajo con variables, operaciones matemáticas, definiciones de clases, y lógica de control de flujo.
 
 ## Contenido
@@ -51,8 +49,3 @@ Define las operaciones aplicables a `CUENTA`.
 ### Parte 3
 Ajusta las definiciones previas para permitir descubiertos limitados y temporales.
 
-## Notas
-
-- Se asume que el lector tiene conocimientos básicos de programación en Python.
-- Los códigos fuente están organizados por ejercicio en este repositorio.
-- Para cualquier consulta o ampliación, refiérase a la documentación oficial de Python o a los materiales complementarios proporcionados con estos ejercicios.
